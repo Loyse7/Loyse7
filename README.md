@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loyse7
-- 👀 I’m interested in programação
-- 🌱 I’m currently learning programação
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning programming
 - 📫 How to reach me loysecard@gmail.com
 
 <!---
